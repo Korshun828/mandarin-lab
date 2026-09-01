@@ -1,0 +1,16 @@
+node_modules
+.pnpm-store
+.next
+out
+.DS_Store
+*.log
+
+# Local environment files and deployment state
+.env
+.env.*
+!.env.example
+.vercel
+
+# Test, coverage, and TypeScript build caches
+coverage
+*.tsbuildinfo

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#d9d2c3"/>
+  <rect x="86" y="72" width="1028" height="756" fill="#f1eee7"/>
+  <circle cx="214" cy="206" r="88" fill="#d9342b"/>
+  <circle cx="1008" cy="174" r="56" fill="#3a6572"/>
+  <rect x="142" y="356" width="310" height="310" fill="#182027" transform="rotate(-5 297 511)"/>
+  <rect x="430" y="256" width="460" height="454" fill="#d9c65b" transform="rotate(3 660 483)"/>
+  <rect x="824" y="366" width="226" height="304" fill="#8ba4a1" transform="rotate(-4 937 518)"/>
+  <text x="185" y="550" fill="#f4f1ea" font-family="serif" font-size="116">学</text>
+  <text x="500" y="466" fill="#111317" font-family="serif" font-size="80">一起学习</text>
+  <text x="512" y="544" fill="#403f3a" font-family="sans-serif" font-size="30" letter-spacing="8">LEARN TOGETHER</text>
+  <g fill="#d9342b"><circle cx="860" cy="760" r="18"/><circle cx="916" cy="760" r="18"/><circle cx="972" cy="760" r="18"/></g>
+</svg>

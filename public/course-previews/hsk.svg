@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#0c1015"/>
+  <rect x="116" y="86" width="690" height="724" fill="#e9e6de" transform="rotate(-2 461 448)"/>
+  <rect x="450" y="122" width="610" height="664" fill="#c9c6bf" transform="rotate(3 755 454)"/>
+  <g fill="none" stroke="#8b8b88" stroke-width="2">
+    <path d="M190 290h510M190 350h510M190 410h510M190 470h510M190 530h510M190 590h510M190 650h510"/>
+    <path d="M530 320h430M530 380h430M530 440h430M530 500h430M530 560h430"/>
+  </g>
+  <text x="188" y="220" fill="#111317" font-family="sans-serif" font-size="74" font-weight="700">HSK 1—4</text>
+  <text x="530" y="244" fill="#111317" font-family="serif" font-size="52">汉语水平考试</text>
+  <g fill="#d9342b"><circle cx="710" cy="296" r="10"/><circle cx="710" cy="356" r="10"/><circle cx="710" cy="416" r="10"/></g>
+  <path d="M978 96l44 28-314 520-48-30z" fill="#d9342b"/>
+  <path d="M1022 124l44 28-314 520-44-28z" fill="#efe9dc"/>
+</svg>

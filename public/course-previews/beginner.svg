@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#171b1f"/>
+  <rect x="94" y="74" width="1012" height="752" fill="#c9c4ba"/>
+  <rect x="140" y="112" width="430" height="660" fill="#f2f0ea" transform="rotate(-3 355 442)"/>
+  <rect x="574" y="120" width="466" height="650" fill="#e6e1d8" transform="rotate(2 807 445)"/>
+  <g stroke="#b7b0a6" stroke-width="2">
+    <path d="M190 270h312M190 330h312M190 390h312M190 450h312M190 510h312M190 570h312"/>
+    <path d="M630 280h340M630 340h340M630 400h340M630 460h340M630 520h340M630 580h340"/>
+  </g>
+  <text x="196" y="225" fill="#121416" font-family="serif" font-size="86">你好</text>
+  <text x="640" y="232" fill="#121416" font-family="serif" font-size="58">从零开始</text>
+  <circle cx="892" cy="652" r="82" fill="none" stroke="#d9342b" stroke-width="13"/>
+  <path d="M850 652l28 28 58-72" fill="none" stroke="#d9342b" stroke-width="13"/>
+  <rect x="64" y="64" width="8" height="772" fill="#d9342b"/>
+</svg>

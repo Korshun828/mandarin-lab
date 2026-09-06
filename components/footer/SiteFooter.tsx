@@ -29,7 +29,7 @@ const connect: readonly ConnectLink[] = [
   { label: "Telegram", value: "@rocket_man828", href: "https://t.me/rocket_man828", external: true },
   { label: "WeChat", value: "rocketman828", href: "#contact", target: "contact" },
   { label: "Email", value: "MandarinLAB1@gmail.com", href: "mailto:MandarinLAB1@gmail.com" },
-  { label: "Instagram", value: "@Korshun_828", href: "https://www.instagram.com/korshun_828/", external: true },
+  { label: "Instagram", value: "@mandarinlabacademy", href: "https://instagram.com/mandarinlabacademy", external: true },
 ];
 
 const reveal = {

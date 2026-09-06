@@ -36,7 +36,7 @@ export function ContactSection() {
   const contactChannels = [
     { number: "01", platform: "Telegram", contact: "@rocket_man828", detail: t.contact.fastest, href: "https://t.me/rocket_man828" },
     { number: "03", platform: "Email", contact: "MandarinLAB1@gmail.com", detail: t.contact.emailDetail, href: "mailto:MandarinLAB1@gmail.com" },
-    { number: "04", platform: "Instagram", contact: "@Korshun_828", detail: t.contact.instagramDetail, href: "https://www.instagram.com/korshun_828/" },
+    { number: "04", platform: "Instagram", contact: "@mandarinlabacademy", detail: t.contact.instagramDetail, href: "https://instagram.com/mandarinlabacademy" },
   ];
 
   function handleCoursesLink(event: MouseEvent<HTMLAnchorElement>) {
